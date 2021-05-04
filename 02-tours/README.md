@@ -4,6 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+tours.png is what the webpage looks like.
 
 In the project directory, you can run:
 
